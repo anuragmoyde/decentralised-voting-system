@@ -1,2 +1,4 @@
 # decentralised-voting-system
-VoteCrypt: Transparent Blockchain Voting System
+VoteCrypt: Transparent Blockchain Voting System 
+
+One of the key trends in the anonymous voting software market is the integration of blockchain technology to enhance security and transparency. Blockchain-based voting solutions provide immutable and decentralized platforms for recording and verifying votes, making it extremely difficult to falsify or manipulate the voting process. Additionally, there is a growing focus on improving the user experience and accessibility of anonymous voting software, with providers investing in intuitive interfaces, mobile responsiveness, and cross-platform compatibility to ensure smooth voting experiences for diverse demographics and user preferences. With VoteCrypt, we have engineered a solution that implements a blockchain-based voting system that utilizes Hedera as a high-throughput solution.
